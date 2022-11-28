@@ -1,2 +1,2 @@
-# AirBnB_clone_v3
-0x05. AirBnB clone - RESTful API project
+this is BnB_web_clone
+
